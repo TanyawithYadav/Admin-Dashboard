@@ -34,6 +34,7 @@
     "import/no-cycle": "off"
   }
   },
+  
   "browserslist": {
     "production": [
       ">0.2%",
